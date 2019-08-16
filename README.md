@@ -1,3 +1,2 @@
 # Queue GO
-
-This is my first time 
+It's my first time 
