@@ -1,2 +1,2 @@
 # Queue GO
-It's my first time 
+This is just another example learning golang and implementation Queue with it.
